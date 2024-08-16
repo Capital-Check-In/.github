@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://capitalcheckin.app">
-    <img width=300 src="" alt="Capital Check In Logo"/>  
+    <img width=300 src="https://github.com/user-attachments/assets/46611da0-74d9-4b3d-9e49-35bfa40beaeb" alt="Capital Check In Logo"/> 
+    
   </a>
 </h1>
 
