@@ -9,7 +9,7 @@ Capital Check In es la solución integral para el monitoreo en tiempo real de pe
 
 Para la gestión de flotillas, Capital Check In ofrece la integración de un dispositivo OBD en sus vehículos, proporcionando seguimiento en tiempo real, así como información detallada sobre la velocidad, consumo de gasolina, aceite y rutas.
 
-La forma más rápida y sencilla de comenzar con Capital Check In es registrándote gratuitamente en **[Capital Check In Cloud](https://sso.capitalcheckin.app/registration)**. Alternativamente, los siguientes recursos te ayudarán a continuar con Capital Check In.
+La forma más rápida y sencilla de comenzar con Capital Check In es registrándote gratuitamente en **[Capital Check In Cloud](https://cloud.capitalcheckin.app)**. Alternativamente, los siguientes recursos te ayudarán a continuar con Capital Check In.
 
 </hr>
 
